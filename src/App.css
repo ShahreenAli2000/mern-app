@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Merriweather&family=Poppins:wght@500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "DM Sans", sans-serif !important;
+  font-family: "Merriweather", serif;
+  font-family: "Poppins", sans-serif;
+}
